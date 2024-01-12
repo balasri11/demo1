@@ -1,5 +1,4 @@
 # demo
-streamlit app
 import streamlit as st
 st.header('puppy')
 st.write('puppy')
